@@ -2,3 +2,5 @@ spring:
   data:
     mongodb:
       database: carts
+env:
+  PIVOTAL_DASHBOARD_ENABLED: true
